@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<ADI>
+  <Metadata>
+    <AMS Asset_Class="package" Asset_ID="REV0520046500101" Asset_Name="El_101_lo_original_HD_Package" Creation_Date="2021-01-25" Description="El_101_lo_original HD" Product="MOD" Provider="REVVOD" Provider_ID="tylerreveille.com" Version_Major="1" Version_Minor="0" />
+    <App_Data App="MOD" Name="Metadata_Spec_Version" Value="CableLabsVOD1.1" />
+  </Metadata>
+  <Asset>
+    <Metadata>
+      <AMS Asset_Class="title" Asset_ID="R3V0520046500101" Asset_Name="El_101_lo_original_HD_Title" Creation_Date="2021-01-25" Description="El_101_lo_original HD" Product="MOD" Provider="REVVOD" Provider_ID="tylerreveille.com" Version_Major="1" Version_Minor="0" />
+      <App_Data App="MOD" Name="Type" Value="Title" />
+      <App_Data App="MOD" Name="Title_Sort_Name" Value="El 101 lo original" />
+      <App_Data App="MOD" Name="Title_Brief" Value="El 101 lo original" />
+      <App_Data App="MOD" Name="Title" Value="El 101 lo original" />
+      <App_Data App="MOD" Name="Summary_Medium" Value="Como dije, es para los modulos.  Necesitamos datos,   datos y datos.  Por favor, no  dejes de escribir hast que hay cien letras..." />
+      <App_Data App="MOD" Name="Summary_Short" Value="Como dije, es para los modulos.  Necesitamos datos,   datos y datos.  Por favor, no  dejes de escribir hast que hay cien letras..." />
+      <App_Data App="MOD" Name="Rating" Value="XXX" />
+      <App_Data App="MOD" Name="Closed_Captioning" Value="N" />
+      <App_Data App="MOD" Name="Run_Time" Value="10:01:10" />
+      <App_Data App="MOD" Name="Display_Run_Time" Value="10:01" />
+      <App_Data App="MOD" Name="Year" Value="2020" />
+      <App_Data App="MOD" Name="Studio" Value="Me" />
+      <App_Data App="MOD" Name="Studio_Name" Value="Me" />
+      <App_Data App="MOD" Name="Actors" Value=" Abc" />
+      <App_Data App="MOD" Name="Actors" Value="commas, what" />
+      <App_Data App="MOD" Name="Actors_Display" Value="Abc  def, what commas" />
+      <App_Data App="MOD" Name="Director" Value="Me studio" />
+      <App_Data App="MOD" Name="Category" Value="Accion" />
+      <App_Data App="MOD" Name="Category" Value="Exotico" />
+      <App_Data App="MOD" Name="Genre" Value="Adulto" />
+      <App_Data App="MOD" Name="Box_Office" Value="0" />
+      <App_Data App="MOD" Name="Billing_ID" Value="0" />
+      <App_Data App="MOD" Name="Licesning_Window_Start" Value="2020-01-11T00:00:00" />
+      <App_Data App="MOD" Name="Licensing_Window_End" Value="2020-03-28T23:59:59" />
+      <App_Data App="MOD" Name="Preview_Period" Value="0" />
+      <App_Data App="MOD" Name="Maximum_Viewing_Length" Value="00:24:00" />
+      <App_Data App="MOD" Name="Provider_QA_Contact" Value="vodoperations@company.com" />
+      <App_Data App="MOD" Name="Contract_Name" Value="El_101_lo_original" />
+      <App_Data App="MOD" Name="Suggested_Price" Value="0.00" />
+    </Metadata>
+    <Asset>
+      <Metadata>
+        <AMS Asset_Class="movie" Asset_ID="R3V0520046500101" Asset_Name="El_101_lo_original_HD_Movie" Creation_Date="2021-01-25" Description="El_101_lo_original HD" Product="MOD" Provider="REVVOD" Provider_ID="tylerreveille.com" Version_Major="1" Version_Minor="0" />
+        <App_Data App="MOD" Name="Type" Value="movie" />
+        <App_Data App="MOD" Name="Screen_Format" Value="Widescreen" />
+        <App_Data App="MOD" Name="HDContent" Value="Y" />
+        <App_Data App="MOD" Name="Audio_Type" Value="Stereo" />
+        <App_Data App="MOD" Name="Viewing_Can_Be_Resumed" Value="Y" />
+        <App_Data App="MOD" Name="Watermarking" Value="N" />
+        <App_Data App="MOD" Name="Copy_Protection" Value="N" />
+        <App_Data App="MOD" Name="Content_Format" Value="MPEG2" />
+        <App_Data App="MOD" Name="Content_FileSize" Value="" />
+        <App_Data App="MOD" Name="Content_CheckSum" Value="" />
+      </Metadata>
+      <Content Value="HUTL0520046500101.ts" />
+    </Asset>
+    <Asset>
+      <Metadata>
+        <AMS Asset_Class="poster" Asset_ID="R3V05200465101" Asset_Name="El_101_lo_original_HD_Poster" Creation_Date="2021-01-25" Description="El_101_lo_original HD" Product="MOD" Provider="REVVOD" Provider_ID="tylerreveille.com" Version_Major="1" Version_Minor="0" />
+        <App_Data App="MOD" Name="Type" Value="poster" />
+        <App_Data App="MOD" Name="Image_Aspect_Ratio" Value="640x960" />
+        <App_Data App="MOD" Name="Content_FileSize" Value="" />
+        <App_Data App="MOD" Name="Content_CheckSum" Value="" />
+      </Metadata>
+      <Content Value="HUTL05200465101.jpg" />
+    </Asset>
+  </Asset>
+</ADI>
